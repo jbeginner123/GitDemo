@@ -11,7 +11,11 @@ NO WATER!!!!!!!!!!!!!!!!!!!!!!!!!!!
 make paste
 marinate and put in fridge for 1 hour
 
+<<<<<<< HEAD
 1 tbsp oil
 
 JEFFFFFF
 
+=======
+1 tbsp oilllll
+>>>>>>> db2708114c4d8a6607c39bce05c36cd0d0181054
